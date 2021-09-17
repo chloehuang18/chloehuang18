@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chloehuang18
-- 👀 I’m interested in mastering in programming and project management 
+- 👀 I’m interested in mastering programming and project management skills
 - 🌱 I’m currently majoring software engineering
 - 💞️ My Profile: https://chloehuang18.github.io/myProfile
 - 📫 chloe.huangts@gmail.com
